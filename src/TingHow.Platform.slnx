@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/ApiGateway/" />
+  <Folder Name="/Asprie/" />
+  <Folder Name="/buildingblocks/">
+    <Project Path="BuildingBlocks/BuildingBlocks.Abstractions/BuildingBlocks.Abstractions.csproj" Id="e88977a3-a7c6-43e9-9110-ffdec31c8dc1" />
+    <Project Path="BuildingBlocks/BuildingBlocks.Core/BuildingBlocks.Core.csproj" Id="34fad02c-b8ec-4c6c-b48a-cc2472905beb" />
+  </Folder>
+  <Folder Name="/Services/" />
+</Solution>
